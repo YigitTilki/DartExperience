@@ -25,6 +25,7 @@ class Ogrenci {
   int yas = 0;
   Ogrenci(int yas) {
     if (yas < 0) {
+      //yaş 0'dan küçük olduğunda hata olarak -20'ye fırlatıyor
       throw AgeException(mesaj: 'AgeException - Yaş negatif olamaz');
     } else {
       this.yas = yas;
