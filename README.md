@@ -1,3 +1,3 @@
 # DartExperience
- Backend konusunda kendimi dart öğrenerek geliştirmeye çalışıyorum
- Flutter'a ön hazırlık
+ Backend konusunda kendimi dart öğrenerek geliştirmeye çalışıyorum\n
+ Flutter'a ön hazırlık yapıyorum
